@@ -1,11 +1,11 @@
-# elmoussaoui.github.io
+
 ## Mohamed EL-MOUSSAOUI — Academic Website
 
 Welcome to the official repository of my academic website. This site serves as a central platform to showcase my research, publications, teaching, and academic activities in the field of **Computer Science and Artificial Intelligence**.
 
 ## 🌐 Website
 
-👉 [Visit My Academic Website](https://elmoussaoui.github.io) 
+👉 [Visit My Academic Website](https://assuom44.github.io/elmoussaoui/) 
 
 ---
 
@@ -55,5 +55,5 @@ I am a **Postdoctoral Researcher / Computer Science PhD** with a strong focus on
 
 ## 📫 Contact
 
-For collaborations, inquiries, or supervision opportunities, please visit the [Contact](https://elmoussaoui.github.io/contact.html) page or reach out.
+For collaborations, inquiries, or supervision opportunities, please visit the [Contact](https://assuom44.github.io/elmoussaoui) page and reach out.
 
